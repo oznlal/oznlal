@@ -39,6 +39,11 @@ VAPT
 $ ls
 Python   C
 ```
-
-
+### Contacts:
+  <a href="https://t.me/Mr-E13v3N">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:ozn.lal02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 
