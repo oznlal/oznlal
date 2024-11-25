@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
+</div>
+
 <h2 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+Fatface&color=%23FF0000&size=40&center=true&vCenter=true&lines=Mr.E13v3N;BIJULAL+J+B)](https://git.io/typing-svg)
