@@ -1,5 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
+
+
+<div align="center">
+  <img src="https://github.com/oznlal/oznlal/blob/8c3b2b50a3a5141c44e39fca4b151b92a8a5c1e0/gitbanner.jpg" alt="Image Alt" style="width: 80%; max-width: 600px;">
 </div>
 
 <h2 align="center">
@@ -56,8 +58,16 @@ Python   C
 | Projects         | Skills              | Description                           |
 |------------------|---------------------|---------------------------------------|
 |  File Integrity Checker Tool  |   File Integrity Checking Tool     | This tool monitors file integrity on Linux, alerting users to unauthorized changes with repeat notifications until files are restored, and logs all monitoring actions. |
----
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
+</div>
+
+
 <h3 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Connection+terminated...)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+Fatface&color=%230EAA20&&vCenter=true&vCenter=true&lines=Connection+terminated....;)](https://git.io/typing-svg)
 </h3>
+
+
