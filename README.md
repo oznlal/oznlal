@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/bijulaljb"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://tryhackme.com/r/p/Mr.E13v3N"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"></a>
 </p>
-
+<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=oznlal&style=flat-square&color=blue" alt=""></p>--!>
 
 <h3 align="center">👋 Hello, World!</h3>
 <h4 align="center">Welcome to my GitHub!</h4>
