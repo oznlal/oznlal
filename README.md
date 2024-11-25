@@ -7,6 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+Fatface&color=%23FF0000&size=40&center=true&vCenter=true&lines=Mr.E13v3N;BIJULAL+J+B)](https://git.io/typing-svg)
 </h2>
 <!-- About me -->
+<p align="center">
+<a href="https://www.linkedin.com/in/bijulaljb"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 <h3 align="center">👋 Hello, World!</h3>
 <h4 align="center">Welcome to my GitHub!</h4>
