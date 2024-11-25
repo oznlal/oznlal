@@ -39,7 +39,7 @@ VAPT
 $ ls
 Python   C
 ```
-### Contacts:
+### Connect me on:
   <a href="https://t.me/Mr-E13v3N">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a> &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -47,3 +47,8 @@ Python   C
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 
+---
+<h3 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Connection+terminated...)](https://git.io/typing-svg)
+</h3>
