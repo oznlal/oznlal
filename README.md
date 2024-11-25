@@ -4,17 +4,32 @@
 </h2>
 <!-- About me -->
 
-### 👋 Hello, World!
+<h3 align="center">👋 Hello, World!</h3>
+<h4 align="center">Welcome to my GitHub!</h4>
 
-Welcome to my GitHub! 😃  
 
 ```bash
+(oznlal@github)-[~]
 $ whoami
 Bijulal | Certified Penetration Tester
 
+(oznlal@github)-[~]
 $ echo
 "I'm a Computer Science Engineering student and a Certified Penetration Tester (CPT)
- with a passion for cybersecurity and ethical hacking.I am dedicated to delving deeper
- into the field of cybersecurity, continuously enhancing my skills and knowledge."
+with a passion for cybersecurity and ethical hacking. I am dedicated to delving deeper
+into the field of cybersecurity, continuously enhancing my skills and knowledge."
+
+(oznlal@github)-[~/Profile]
+$ cat Skills
+Networking & Security
+Penetration Testing
+Web Application Security
+VAPT
+
+(oznlal@github)-[~/Profile/Languages]
+$ ls
+Python   C
+```
+
 
 
